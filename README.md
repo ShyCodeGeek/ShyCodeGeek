@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShyCodeGeek
-- 👀 I’m interested in GO
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in Golang
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on code
 - 📫 How to reach me : Don't reach me
 
